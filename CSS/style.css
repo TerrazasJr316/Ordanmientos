@@ -1,0 +1,64 @@
+body {
+    font-family: 'Times New Roman', sans-serif;
+    background-color: #ebe7e7;
+    margin: 0;
+    padding: 0;
+     background-image:  rgba(98, 118, 119, 0.934);
+    }  
+
+.content-form {
+    max-width: 300px;
+    margin: 50px auto;
+    background-color: #c8c1c1;
+    padding: 20px;
+    border-radius: 15px;
+}
+
+h3 {
+    color: #085182;
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+h4 {
+    color: #9239bf;
+    margin-top: 15px;
+    padding-bottom: 5px;
+    text-align: center;
+}
+
+label {
+    display: block;
+    color: #333;
+    margin: 10px 0;
+}
+
+select, button {
+    width: 100%;
+    padding: 5px;
+    margin: 5px;
+    border-radius: 35px;
+}
+
+#btnCalcular {
+    background-color: #aeb291;
+    color: #fff;
+    border-radius: 25px;
+}
+
+#btnCancelar {
+    background-color: #99dfc5;
+    color: #b9b6d8;
+    border-radius: 25px;
+}
+
+button:hover {
+    opacity: 1;
+    background-color: #91f0a9;
+}select {
+    width: 100%;
+    padding: 5px;
+    margin: 10px 0;
+    border-radius: 40px;
+    background-color: #ffffff; 
+}
